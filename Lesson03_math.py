@@ -32,3 +32,18 @@ print("result 4: \t" , result4)
 
 Result5 = 5 +2 ** 3 * (4 - 1)
 print("answer five: \t" , Result5)
+
+#CHALLENGES
+
+area = 8 * 5
+print("answer: \t" , area)
+
+Circle = 3.14 * 7 ** 2 
+print("Answer: \t" , Circle)
+
+Cost = (12.99 * 3) + (3.50 * 4)
+print("Answer: \t" , Cost)
+
+Modulus = 6 % 2
+print("Modulus: \t" , Modulus)
+
