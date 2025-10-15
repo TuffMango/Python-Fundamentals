@@ -63,3 +63,28 @@ else:
 
 if day is not "Monday":
     print("It's not Monday")
+import math
+Num2 = int(input("Pick a even or odd number: "))
+if Num2 %2 == 0:
+    print("Your number is even")
+else:
+    print("Your number is odd")
+
+Password = "gfbfhiperuvian"
+Enter = input("Enter your password: ")
+if Password is Enter:
+    print("Access granted")
+else:
+    print("Access denied")
+
+grade = int(input("Enter your grade: "))
+if grade >= 90:
+    print("You have an A")
+elif grade >= 80:
+    print("You have an B")
+elif grade>= 70:
+    print("You have a C")
+elif grade >= 60:
+    print("you have a 60")
+else:
+    print("you are failing")
