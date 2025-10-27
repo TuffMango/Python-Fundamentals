@@ -93,3 +93,4 @@ shopping = []
 shopping.append["cookie", "Eggs"]
 shopping.remove["eggs"]
 print(shopping)
+
